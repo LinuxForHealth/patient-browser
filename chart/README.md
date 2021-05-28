@@ -43,7 +43,7 @@ INGRESS_HOST refers to the pre-determined domain name that will be used to acces
 
 ### Using the Chart
 
-Access your FHIR UI at: `http://<external-ip>/index.html`
+Access your FHIR UI at: `http://<<INGRESS_HOST>>/index.html`
 
 ## Uninstallation
 
